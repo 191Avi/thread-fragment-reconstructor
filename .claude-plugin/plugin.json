@@ -1,0 +1,9 @@
+{
+  "name": "thread-fragment-reconstructor",
+  "version": "0.1.0",
+  "description": "Scans a messy folder of notes, screenshots, and PDFs, clusters the fragments by apparent intent, and produces plain-language project briefs with suggested next actions.",
+  "author": {
+    "name": "Avijit"
+  },
+  "keywords": ["productivity", "files", "organization", "notes", "ocr"]
+}
